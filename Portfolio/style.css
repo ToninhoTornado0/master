@@ -1,0 +1,66 @@
+.title {
+    color:#007FFF;
+    font-size: 50px;
+}
+
+
+.title2 {
+    color:#007FFF;
+    font-size: 40px;
+}
+
+
+ul {
+    display: flex;
+    gap:40px
+}
+
+
+li {
+    list-style:none;
+}
+ header {
+    color:#000000;
+    display: flex;
+    background-color:#007FFF;
+    padding: 5px 50px;
+    justify-content: space-between;
+    }
+
+
+body {
+   
+    background: linear-gradient(to bottom, #000000, #1d1d1d);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+section{
+ padding: 70px 60px;
+ display:flex;
+ align-items: center;
+ justify-content: space-between;
+
+
+}
+.direito img{
+    width: 30vw;
+    height: 30vw;
+    object-fit: cover;
+    border-radius: 40px;
+    border:#007FFF 8px solid;
+
+
+}
+.meio {	
+    width:100%
+}
+.sobremim {
+    color:#007FFF;
+    padding: 70px 60px;
+}
+.Meunome {
+    color: #007FFF;
+    font-size: 20px;
+}
